@@ -1,1 +1,1 @@
-"Initial creation" 
+This repository aims to solve the max cut problem via QAOA algorithms. 
